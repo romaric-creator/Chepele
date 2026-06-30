@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chepele.com/sitemap.xml
+
+# Crawl-delay suggestion
+User-agent: Googlebot
+Crawl-delay: 1
+
+User-agent: Bingbot
+Crawl-delay: 2

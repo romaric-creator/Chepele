@@ -1,0 +1,6 @@
+{
+  "name": "Chepele",
+  "description": "Site web du restaurant Chepele 'Man with the Pot' a Douala, Cameroun. Decouvrez notre carte, la galerie, les evenements et trouvez-nous.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
