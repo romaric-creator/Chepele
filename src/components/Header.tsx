@@ -26,12 +26,13 @@ export default function Header({ cartCount, onCartOpen }: HeaderProps) {
     <header className="sticky top-0 z-50 bg-background/80 backdrop-blur-md border-b border-border">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
-          <Link to="/" className="flex items-center gap-3">
+          <Link to="/" className="flex items-center gap-2">
             <img
               src="https://chepele.com/wp-content/uploads/2025/08/cropped-chepele-white-1.png"
               alt="Chepele"
               className="h-8 w-auto invert"
             />
+            <span className="font-serif font-bold text-foreground text-lg">Chepele</span>
           </Link>
 
           <nav className="hidden lg:flex items-center gap-1">
